@@ -1,0 +1,16 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "a739"
+    },
+    {
+      "id": "6df6",
+      "text": "Hello <i>email</i>, <u>how </u>are <b>you</b>?"
+    },
+    {
+      "id": "ab11",
+      "text": "<u>Email </u><b>editor </b>is <i>ready</i>"
+    }
+  ]
+}
